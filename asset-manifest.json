@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tareasUI-frontend/static/css/main.9d0934b1.css",
-    "main.js": "/tareasUI-frontend/static/js/main.88a07126.js",
+    "main.js": "/tareasUI-frontend/static/js/main.020ecd21.js",
     "static/js/453.8ab44547.chunk.js": "/tareasUI-frontend/static/js/453.8ab44547.chunk.js",
     "index.html": "/tareasUI-frontend/index.html",
     "main.9d0934b1.css.map": "/tareasUI-frontend/static/css/main.9d0934b1.css.map",
-    "main.88a07126.js.map": "/tareasUI-frontend/static/js/main.88a07126.js.map",
+    "main.020ecd21.js.map": "/tareasUI-frontend/static/js/main.020ecd21.js.map",
     "453.8ab44547.chunk.js.map": "/tareasUI-frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d0934b1.css",
-    "static/js/main.88a07126.js"
+    "static/js/main.020ecd21.js"
   ]
 }
