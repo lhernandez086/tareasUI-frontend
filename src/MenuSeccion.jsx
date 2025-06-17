@@ -8,7 +8,7 @@ const MenuSeccion = () => {
     <section 
       className="py-xl-16 pt-lg-8" 
       style={{
-        backgroundImage: 'url(/test-fondo.jpg)', 
+        backgroundImage: 'url(./test-fondo.jpg)', 
         backgroundRepeat: 'round', 
         backgroundSize: 'cover'
       }}
